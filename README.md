@@ -1,5 +1,4 @@
-# Readme
-## Description of the file
+# README
 
 ## Methodology
 While the rise of antisemitism on X is no longer questionable since the last Hamas attack on October 7th in Israel, the quantitative part of this study aims to observe the trend of antisemitic behavior on Twitter/X before and after the acquisition of Twitter by Elon Musk on October 27th, 2022. The quantitative part aims to provide an overview of the largest possible sample of antisemitic tweets through relevant hashtags and quantification of how much changes in Twitter’s policies have impacted the rise of antisemitism. The methodology hinges on several crucial steps, described below. Moreover, all codes and datasets are available both on the GitHub. 
